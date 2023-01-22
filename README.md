@@ -4,6 +4,8 @@
 <h4 align="center"> SKILLS</h4>
 <h5 align="center"> Languages</h5>
 <img src="html5.svg" alt="html5">
+<img src="css3.svg" alt="css3">
+<img src="javascript.svg" alt="javascript">
 
 
 <!--
