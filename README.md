@@ -9,8 +9,6 @@
   <li><b>SASS/SCSS</b></li>
   <li><b>Git</b></li>
 </ul>
-<h4 align="left"> GitHub Stat Trophies</h4>
-[![trophy](https://github-profile-trophy.vercel.app/?Marina-frontende=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
