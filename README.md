@@ -10,6 +10,8 @@
   <li><b>Git</b></li>
 </ul>
 
+<h4 align="left"> ACTIVITIES</h4>
+<img src="https://www.codewars.com/users/Marina-frontend/badges/small" alt="codewars">
 
 
 <!--
