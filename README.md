@@ -13,7 +13,9 @@
 <h4 align="left"> ACTIVITIES</h4>
 <img src="https://www.codewars.com/users/Marina-frontend/badges/small" alt="codewars">
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marina-frontend&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marina-frontend&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Marina-frontend/Marina-frontend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
